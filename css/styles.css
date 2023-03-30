@@ -1,0 +1,15 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+ul{
+    list-style: none;
+    padding: 0;
+}
+a{
+    display: inline-block;
+    text-decoration: none;
+    color: #fff;
+}
+/* Common CSS End */
